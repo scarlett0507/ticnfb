@@ -45,7 +45,7 @@ div#title {
     width: 100%;
     color: #000000;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.0em;
     font: 10px/1.0Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
 }
 .content {
@@ -63,7 +63,7 @@ p {
     line-height: 150%;
     margin: 0 auto;
     font-size: 0.8em;
-    font: 7px/1.1 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
+    font: 9px/1.1 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
 }
 p1 {
     color: #797979;
@@ -71,7 +71,7 @@ p1 {
     font-size: 0.8em;
     -webkit-writing-mode: vertical-rl;
     writing-mode: vertical-rl;
-    font: 12px/1.5 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
+    font: 8px/1.1 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
 }
 div.container {
    height: 50%;
