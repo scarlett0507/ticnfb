@@ -82,18 +82,18 @@ div.container {
   border: none;
   color: #FFFFFF;
   padding:10px 13px;
-  
-  font-size: 0.8em;
+  text-align: center;
+  font-size: 0.7em;
   opacity: 0.95;
 
   display: inline-block;
   text-decoration: none;
   cursor: pointer;
    border-radius: 12px;
-   position: absolute;  
+   position: fixed;  
    z-index: 100;
    left:12px;  
    bottom:62%;
-   font: 7px/1.0 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;  
+   font: 9px/1.0 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;  
 }  
 .my_button:hover {opacity: 1}
