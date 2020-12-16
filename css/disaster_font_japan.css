@@ -73,6 +73,17 @@ p1 {
     writing-mode: vertical-rl;
     font: 8px/1.1 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
 }
+p2{
+	width: 90%;
+    height: 25%;
+    color: #000000;
+    margin-right: 10px;
+    letter-spacing: 2px;
+    line-height: 150%;
+    margin: 0 auto;
+    font-size:0.2em;
+    font:3px/1.1 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
+}
 div.container {
    height: 50%;
    float: right;
