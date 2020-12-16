@@ -94,6 +94,6 @@ div.container {
    z-index: 100;
    left:12px;  
    bottom:62%;
-   font: 12px/1.5 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;  
+   font: 7px/1.0 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;  
 }  
 .my_button:hover {opacity: 1}
