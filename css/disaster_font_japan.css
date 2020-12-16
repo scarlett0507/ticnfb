@@ -71,10 +71,10 @@ p1 {
     font-size: 0.8em;
     -webkit-writing-mode: vertical-rl;
     writing-mode: vertical-rl;
-    font: 8px/1.1 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
+    font: 10px/1.1 Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
 }
 p2{
-	width: 90%;
+    width: 90%;
     height: 25%;
     color: #000000;
     margin-right: 10px;
